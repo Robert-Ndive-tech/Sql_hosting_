@@ -1,0 +1,15 @@
+{
+  "dependencies": {
+    "cors": "^2.8.5",
+    "dotenv": "^16.3.1",
+    "expressjs": "^1.0.1",
+    "gridfs-stream": "^1.1.1",
+    "mongodb": "^6.2.0",
+    "mongoose": "^7.6.3",
+    "multer": "^1.4.4",
+    "multer-gridfs-storage": "^5.0.2",
+    "muter": "^0.7.0",
+    "mysql": "^2.18.1",
+    "nodemon": "^3.0.1"
+  }
+}
